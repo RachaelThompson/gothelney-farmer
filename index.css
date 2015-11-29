@@ -2,6 +2,23 @@
 	width: 100%;
 }
 
+.second-slide {
+	width: 100%;
+}
+
+.third-slide {
+	width: 100%;
+}
+
 .row {
 	margin: 20px;
 }
+
+.navbar-wrapper {
+	background-color: #111;
+}
+
+body {
+	padding-top: 50px;
+}
+
